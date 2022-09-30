@@ -8,5 +8,4 @@ class empresa:
         self.nombre = nombre
         self.abreviatura = abreviatura
         self.puntoAtencion = ptsatencion()
-        self.listaTransaccioens = transacciones()
         self.siguiente = None
